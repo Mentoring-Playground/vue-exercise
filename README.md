@@ -1,1 +1,3 @@
 # vue-exercise
+
+\* New announcement \*
